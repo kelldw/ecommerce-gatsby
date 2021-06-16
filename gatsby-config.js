@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Skyline Ivy`,
-    description: `An online shopping experience like no other`,
-    author: `Harry Potter and friends`,
+    title: `ASQ`,
+    description: `High Quality Ecommerce Platform`,
+    author: `ASQ`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

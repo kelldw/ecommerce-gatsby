@@ -8,19 +8,11 @@ const Footer = () => {
     <footer>
       <Callout image={CalloutImage}>
         <h2>
-          "The surprising styles of Skyline Ivy are advanced for all seasons."
+          "Great Selection of Relevant and High-quality items you can rely on"
         </h2>
         <p>Hansel Andersen</p>
       </Callout>
       <FooterLinks />
-      <Blurb>
-        <p>
-          This project was built with Gatsby &{" "}
-          <a href="https://github.com/mikeesto/ecommerce-gatsby">
-            is open source on Github
-          </a>
-        </p>
-      </Blurb>
     </footer>
   )
 }

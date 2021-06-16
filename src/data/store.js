@@ -1,3 +1,4 @@
+import nike from "../images/products/nike.jpg"
 import one from "../images/products/1.jpg"
 import two from "../images/products/2.jpg"
 import three from "../images/products/3.jpg"
@@ -20,16 +21,16 @@ import nineteen from "../images/products/19.png"
 
 export const Store = [
   {
-    id: "9d436e98-1dc9-4f21-9587-76d4c0255e33",
+    id: "640055",
     color: "Goldenrod",
-    description:
-      "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+    description: "Renew your drive and elevate above the rim in the Nike Renew Elevate men's basketball shoe. With a mesh & synthetic upper and padded collar & tongue, these lace-up sneakers give great ankle support as your defense ramps up. The Renew EVA midsole and rubber traction outsole offer stable support while enabling you to move in multiple directions effortlessly.",
     gender: "Male",
-    name: "Desi Avramovitz",
+    name: "NIKE MENS RENEW ELEVATE BASKETBALL SHOE - BLACK",
     review: "productize virtual markets",
-    starrating: 3,
-    price: 50.4,
-    img: one,
+    starrating: 5,
+    price: 79.99,
+    img: nike,
+    url: "https://www.rackroomshoes.com/p/renew-elevate-basketball-shoe/640055?&redirect_source=OBSW"
   },
   {
     id: "bfa86b1c-9ebf-4555-987f-7b8bf7d27be7",
